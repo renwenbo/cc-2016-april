@@ -1,0 +1,7 @@
+{"created_at":"Thu Mar 24 17:52:20 +0000 2016","entities":{"hashtags":[{"text":"A"},{"text":"B"},{"text":"C"},{"text":"D"}]}}
+{"created_at":"Thu Mar 24 17:52:30 +0000 2016","entities":{"hashtags":[{"text":"B"},{"text":"C"}]}}
+{"created_at":"Thu Mar 24 17:52:40 +0000 2016","entities":{"hashtags":[{"text":"A"},{"text":"B"}]}}
+{"created_at":"Thu Mar 24 17:53:21 +0000 2016","entities":{"hashtags":[{"text":"C"},{"text":"A"}]}}
+{"created_at":"Thu Mar 24 17:52:35 +0000 2016","entities":{"hashtags":[{"text":"D"},{"text":"A"},{"text":"B"}]}}
+{"created_at":"Thu Mar 24 17:53:31 +0000 2016","entities":{"hashtags":[]}}
+{"created_at":"Thu Mar 24 17:53:41 +0000 2016","entities":{"hashtags":[]}}
